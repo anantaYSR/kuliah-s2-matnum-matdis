@@ -5,7 +5,7 @@
 ### **Matdis**
 <ol>
   <li><b>Bayu</b></li>
-  <li><b>Awan</b></li>
+  <li><b>Awan & Chima</b></li>
   <li>
     <ol type="A">
       <li><b>Daus</b></li>
